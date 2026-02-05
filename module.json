@@ -1,0 +1,26 @@
+{
+  "id": "dm-roll",
+  "title": "DM Roll",
+  "description": "dm-roll is a Foundry VTT module that allows the Dungeon Master to roll ability checks for different players in the game session, streamlining gameplay and enhancing session management.",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "vader"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "13"
+  },
+  "esmodules": [
+    "scripts/module.js",
+    "scripts/ui/ui.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ]
+}
