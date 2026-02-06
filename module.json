@@ -1,7 +1,6 @@
 {
   "id": "dm-roll",
   "title": "DM Roll",
-  "description": "dm-roll is a Foundry VTT module that allows the Dungeon Master to roll ability checks for different players in the game session, streamlining gameplay and enhancing session management.",
   "version": "0.0.1",
   "authors": [
     {
@@ -38,5 +37,5 @@
   ],
     "url": "https://github.com/dicruzg/dm-roll",
     "manifest": "https://raw.githubusercontent.com/dicruzg/dm-roll/refs/heads/master/module.json",
-    "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
+    "description": "dm-roll is a Foundry VTT module that allows the Dungeon Master to roll ability checks for different players in the game session, streamlining gameplay and enhancing session management."
 }
